@@ -29,9 +29,11 @@ Based in India | Creating scalable web & mobile apps with **MongoDB • Express 
 
 ---
 
-## 📈 GitHub Stats  
-![Pranav’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranav1326&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav1326&layout=compact)
+## 📈 GitHub Stats
+[![wakatime](https://wakatime.com/badge/user/635cb6a1-92d5-4915-a073-9d12199fe432.svg)](https://wakatime.com/@635cb6a1-92d5-4915-a073-9d12199fe432)
+[![Pranav’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranav1326&show_icons=true&show=prs_merged,prs_merged_percentage,reviews,discussions_started,discussions_answered&theme=cobalt)](https://github.com/Pranav1326)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav1326&theme=cobalt)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Pranav1326)]()
 
 ---
 
